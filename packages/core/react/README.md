@@ -36,6 +36,12 @@ Visit <a aria-label="nextui learn" href="https://nextui.org/learn">https://nextu
 
 Visit [https://nextui.org/docs](https://nextui.org/docs) to view the full documentation.
 
+## Ecosystem
+
+| Project | Description |
+| --- | --- |
+| [vscode-common-intellisense](https://github.com/Simon-He95/vscode-common-intellisense) | A vscode extension that provides better intellisense to NextUI developers |
+
 ### Community
 
 We're excited to see the community adopt NextUI, raise issues, and provide feedback.
